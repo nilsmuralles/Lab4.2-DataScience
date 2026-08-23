@@ -1,0 +1,12 @@
+rasterio
+geopandas
+pandas
+numpy
+matplotlib
+seaborn
+pyproj
+folium
+jupyter
+pyarrow
+scikit-learn
+xgboost
